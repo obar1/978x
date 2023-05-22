@@ -1,2 +1,8 @@
-# 978x
-a placeholder to use to study books 
+# 978x 
+
+- Lesson 1: ..
+
+```attr
+`read` 
+**`pg`**
+```
